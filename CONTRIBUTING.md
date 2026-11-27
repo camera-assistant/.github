@@ -14,7 +14,7 @@ The plans are in the [backlog](https://github.com/camera-assistant/backlog/tree/
 ## Pull requests
 
 - One issue per pull request, and keep it small.
-- Link the issue in the description, as `Closes https://github.com/camera-assistant/backlog/issues/<n>`, and name the plan step it implements.
+- Link the issue in the description with its full address, such as `Closes https://github.com/camera-assistant/backlog/issues/<n>`, and name the plan step it implements.
 - Tests come with the change. A bug fix comes with a test that fails without the fix.
 - Design reasoning goes into the plan or the pull request description, not into private notes.
 - A maintainer reviews every change before it is merged.
