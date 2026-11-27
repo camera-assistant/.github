@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Idea or feature request
+    url: https://github.com/camera-assistant/backlog/issues/new/choose
+    about: Ideas and feature requests are collected in the backlog.
+  - name: Report a security problem
+    url: https://github.com/camera-assistant/camera-assistant/security/advisories/new
+    about: Report a vulnerability privately, not in a public issue.
