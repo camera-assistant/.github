@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Open the report in the repository it concerns: `camera-assistant` for the server, `frontend` for the web interface.
-        For an idea or a feature request, start a [discussion](https://github.com/camera-assistant/backlog/discussions/categories/ideas) instead.
+        For an idea or a feature request, start a [discussion](https://github.com/camera-assistant/camera-assistant/discussions/categories/ideas) instead.
   - type: input
     id: version
     attributes:

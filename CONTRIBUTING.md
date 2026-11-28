@@ -7,7 +7,7 @@ The plans are in the [backlog](https://github.com/camera-assistant/backlog/tree/
 ## Start from an issue
 
 - Pick a task that has nobody assigned, and say in a comment that you are taking it.
-- An idea or a change that is not on the board starts as a [discussion](https://github.com/camera-assistant/backlog/discussions/categories/ideas), so it can be talked through before you start.
+- An idea or a change that is not on the board starts as a [discussion](https://github.com/camera-assistant/camera-assistant/discussions/categories/ideas), so it can be talked through before you start.
 - A change to a design starts as a pull request to the plan in the backlog.
 - Report a bug in the repository it concerns: [camera-assistant](https://github.com/camera-assistant/camera-assistant/issues) for the server, [frontend](https://github.com/camera-assistant/frontend/issues) for the web interface.
 
