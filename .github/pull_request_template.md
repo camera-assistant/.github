@@ -4,6 +4,7 @@
 
 ## Issue and plan step
 
+<!-- The full address of the issue this resolves. -->
 Closes https://github.com/camera-assistant/backlog/issues/<n>
 
 Plan step: <!-- The plan and the step this implements, or "none". -->
