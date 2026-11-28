@@ -11,3 +11,5 @@ The project has just started. There is nothing to install yet.
 | [camera-assistant](https://github.com/camera-assistant/camera-assistant) | The server, written in Rust |
 | [frontend](https://github.com/camera-assistant/frontend) | The web interface |
 | [backlog](https://github.com/camera-assistant/backlog) | The plan, the tasks and the project board |
+
+Want to help or follow along? Development is talked about in the [discussions](https://github.com/camera-assistant/camera-assistant/discussions), and the [contribution rules](https://github.com/camera-assistant/.github/blob/main/CONTRIBUTING.md) say how to get started.

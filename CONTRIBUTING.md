@@ -4,6 +4,8 @@ Thank you for wanting to help. The project has just started, so these rules are 
 
 The plans are in the [backlog](https://github.com/camera-assistant/backlog/tree/main/docs/plans) and the design is described in the [architecture](https://github.com/camera-assistant/backlog/blob/main/docs/architecture.md). The open tasks are on the [project board](https://github.com/orgs/camera-assistant/projects/2).
 
+Development is talked about in the [discussions](https://github.com/camera-assistant/camera-assistant/discussions) of the main repository: questions about the code, the plans and work in progress.
+
 ## Start from an issue
 
 - Pick a task that has nobody assigned, and say in a comment that you are taking it.
