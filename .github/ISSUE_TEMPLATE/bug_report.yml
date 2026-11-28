@@ -1,0 +1,66 @@
+name: Bug report
+description: Something does not work as it should.
+labels: [bug]
+type: Bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Open the report in the repository it concerns: `camera-assistant` for the server, `frontend` for the web interface.
+        For an idea or a feature request, start a [discussion](https://github.com/camera-assistant/backlog/discussions/categories/ideas) instead.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The version of Camera Assistant you run.
+    validations:
+      required: true
+  - type: dropdown
+    id: installation
+    attributes:
+      label: How is it installed?
+      options:
+        - Home Assistant app
+        - Container
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: hardware
+    attributes:
+      label: Hardware
+      description: The machine it runs on.
+      placeholder: A mini PC with an Intel N100, or a Home Assistant Green
+  - type: input
+    id: camera
+    attributes:
+      label: Camera brand and model
+      placeholder: Brand and model, if the problem is about a camera
+  - type: dropdown
+    id: connection
+    attributes:
+      label: How does the camera connect?
+      options:
+        - RTSP
+        - Matter
+        - Other / not about a camera
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: Remove passwords, tokens and addresses before you paste.
+      render: text
